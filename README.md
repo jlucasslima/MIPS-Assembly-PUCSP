@@ -1,6 +1,6 @@
 # Arquitetura de Computadores (MIPS Assembly)
 
-[cite_start]Este repositório contém a resolução de exercícios da disciplina de Arquitetura de Computadores na **PUC-SP**
+Este repositório contém a resolução de exercícios da disciplina de Arquitetura de Computadores na **PUC-SP**
 
 ## Exercícios Desenvolvidos
 1. **Soma de dígitos do RA**: Realiza a soma individual de cada algarismo do RA dos integrantes.
